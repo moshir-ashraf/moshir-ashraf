@@ -1,4 +1,4 @@
-<h3 align="center">A Computer Science university student, with an Artificial Intelligence minor, intrigued by the evolution of machine learning and computer vision, as well as the continuous advancements in all the NLP models. Wanting to make an impact not just through algorithmic design and computing, but also through mindful interface engineering; hoping to successfully design, develop and integrate modern AI solutions with friendly HCI structures.</h3>
+<h3 align="center">A Computer Science university student, with an Artificial Intelligence minor, intrigued by the evolution of machine learning and computer vision, as well as the continuous advancements in all  NLP models. Wanting to make an impact not just through algorithmic design and computing, but also through mindful interface engineering; hoping to successfully design, develop and integrate modern AI solutions with friendly HCI structures.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
